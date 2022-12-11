@@ -1,0 +1,18 @@
+Variables
+Las variables son  para almacenar codigos que despues podes cambiar.
+
+Strings
+Son caracteres numeros , letras etc que van estre comillas.
+
+Funciones (argumentos, return)
+Las funciones son objetos que realizan acciones. 
+Los argumentos son variables que van dentro del parentesis en una funcion.
+Return es lo que va adevolver la funcion.
+
+
+Declaraciones if
+Lo podemos usar para ver si una codicion se cumple o no.
+
+
+Valores booleanos (true, false)
+Se usa para decir que algo es verdadero o falso.
