@@ -1,0 +1,18 @@
+for
+Es un bucle que lo que hace es repetir una accion las veces que se quiera. 
+Para que funcione necesitamos declarar 3 cosas dentro del parentesis:
+1- declarar la variable
+2-expresar un condicional
+3- incrementar la variable
+
+
+&&
+Es un operador logico, que significa "Y" , evalua expresiones en verdaderos o falsos.
+Si ambas son verdaderas devolvera TRUE , si uno o ambas son falso devolvera FALSE.
+
+|| 
+Es un operador logico que significa "O", evalua si una o ambas expresiones son verdaderas devolvera True, 
+y si ambas expresiones son falsas devolvera False.
+
+!
+Es un operador logico que significa "NO" evalua y devuelve el booleano opuesto.
