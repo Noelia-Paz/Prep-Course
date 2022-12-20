@@ -1,0 +1,22 @@
+Objetos
+Un objeto va entre llaves {}, y dentro podes guardar propiedades.
+
+Propiedades
+Es una asociacion de nombres o claves con valores.
+
+Métodos
+Son las funciones guardadas dentro de un objeto.
+
+Bucle for…in
+se usa en un ciclo for donde declaramos la variable, va la palabra clave in y el nombre del codigo. 
+Esto recorre todo el objeto y finaliza cuando haya iterado todas las claves.
+
+Notación de puntos vs notación de corchetes
+
+Notación de puntos:
+Podemos llamar al nombre del objeto, un punto y el nombre clave.
+
+
+Notación de corchetes:
+Es como llamar a un elemento en una matriz.
+Se puede llamar a cada clave envolviendola con comillas.
