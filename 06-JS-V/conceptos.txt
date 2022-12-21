@@ -1,0 +1,5 @@
+Prototype:
+Es la propiedad de una clase, que luego la podemos establecer en metodos.
+
+Constructors (de Clases):
+Es una plantilla. Estas clases son utiles para crear muchos objetos que comparten las mismas propiedades y metodos.
